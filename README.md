@@ -1,2 +1,2 @@
-# AutomationTest
+AutomationTest
 Automation
