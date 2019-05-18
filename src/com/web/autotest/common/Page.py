@@ -1,5 +1,4 @@
 from com.web.autotest.common.Browser import Browser
-from com.web.utils.log import logger
 
 class Page(Browser):
     '''

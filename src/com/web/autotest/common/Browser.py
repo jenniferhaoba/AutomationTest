@@ -2,7 +2,7 @@ from selenium import webdriver
 from com.web.utils.Config import DRIVER_PATH,REPORT_PATH
 import time
 import os
-from com.web.utils.log import logger
+from com.web.utils.Log import logger
 
 
 CHROMEDRIVER_PATH = DRIVER_PATH +'\chromedriver.exe'

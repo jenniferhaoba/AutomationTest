@@ -6,11 +6,11 @@ Created on 2019年4月20日
 import re
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from com.web.utils.log import logger
 import smtplib
 from socket import gaierror, error
 import time
 from smtplib import SMTPResponseException, SMTPAuthenticationError
+from com.web.utils.Log import logger
 
 
 """
