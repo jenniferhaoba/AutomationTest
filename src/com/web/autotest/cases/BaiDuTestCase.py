@@ -7,7 +7,7 @@ import time
 import unittest
 #from selenium import webdriver
 #from selenium.webdriver.common.by import By
-from com.web.utils.Config import Config, DRIVER_PATH, REPORT_PATH
+from com.web.utils.Config import Config, REPORT_PATH
 from com.web.utils.Log import logger
 from com.web.utils.HTMLTestRunner import HTMLTestRunner
 import os

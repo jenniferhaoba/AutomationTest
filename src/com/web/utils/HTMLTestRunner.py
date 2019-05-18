@@ -82,7 +82,6 @@ Version in 0.7.1
 import datetime
 import sys
 import io
-import time
 import unittest
 from xml.sax import saxutils
 
